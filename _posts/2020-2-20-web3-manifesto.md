@@ -7,6 +7,7 @@ bigimg:(img/AW3 twitter card.png)
 
 
 ### What is Web 3.0? 
+(https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd41da3b8-b116-48ac-8bd0-9ee30df2fe3b_940x788.png)
 In a one-liner – it’s the next era of the Internet. Web 3.0 is the paradigm shift towards developing a more democratized Internet – an Internet that is governed by the collective rather than by corporations and large organizations. 
 
 Web 3.0 manifests through new technologies, such as cryptocurrencies, virtual and augmented reality, AI, and more. However, the Web 3 movement isn’t spearheaded by new technologies, but rather by a shift in how we as humans view and value the Internet. Web 3.0 is about creating an Internet for the people, by the people. 
