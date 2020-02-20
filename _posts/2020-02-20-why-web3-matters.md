@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Web 3.0 Manifesto: Why Web 3.0 Matters
+subtitle: What is Web 3? Why do we need it? How are we getting there?
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
