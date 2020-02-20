@@ -2,7 +2,7 @@
 layout: post
 title: Web 3.0 Manifesto: Why Web 3.0 Matters
 subtitle: What is Web 3? Why do we need it? How are we getting there?
-bigimg: img/AW3 twitter card.png
+bigimg:img/AW3 twitter card.png
 ---
 
 
