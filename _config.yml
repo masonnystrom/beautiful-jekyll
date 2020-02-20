@@ -21,9 +21,7 @@ description: Write, Crypto Enthusiast, Data Scientist
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  Projects: "Projects
   Advancing Web 3.0 Newsletter: "https://advancingweb3.substack.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
