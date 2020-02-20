@@ -2,15 +2,12 @@
 layout: post
 title: Web 3.0 Manifesto: Why Web 3.0 Matters
 subtitle: What is Web 3? Why do we need it? How are we getting there?
-bigimg: img/AW3 twitter card.png
+bigimg:
 comments: true
 ---
 
 
 ### What is Web 3.0? 
-<img src="img/AW3 twitter card.png"
-     alt="Web3 logo"
-     style="float: left; margin-right: 10px;" />
      
 In a one-liner – it’s the next era of the Internet. Web 3.0 is the paradigm shift towards developing a more democratized Internet – an Internet that is governed by the collective rather than by corporations and large organizations. 
 
