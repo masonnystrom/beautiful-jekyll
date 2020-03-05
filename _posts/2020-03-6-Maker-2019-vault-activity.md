@@ -2,7 +2,7 @@
 layout: post
 title: "Examining Maker Vaults (CDP) Creation Metrics From 2019"
 date: 2020-3-6
-image: maker_vault_creation.png
+image = img/maker_vault_creation_png.png
 author: Mason Nystrom
 ---
 
