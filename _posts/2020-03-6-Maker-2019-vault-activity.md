@@ -5,8 +5,6 @@ date: 2020-3-6
 image: img/Figures for Build1/maker_vault_creation_png.png
 author: Mason Nystrom
 ---
-Feel free to read the post on Medium 
-
 MakerDAO's vaults have been the flagship product of the Decentralized Finance (DeFi) ecosystem with Maker accounting for the majority of total value locked in DeFi protocols and platforms. 
 
 # Maker Vaults Impressive Rise to DeFi Dominance
