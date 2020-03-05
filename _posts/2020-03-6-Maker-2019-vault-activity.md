@@ -42,14 +42,17 @@ My criteria for account creation follows: a user must have opened a vault and de
 After sorting the criteria, there were 75,424 vaults opened throughout 2019, which eliminated just over 30% of all the vaults that were only opened.
 
 ## Spikes in Maker Vault Creation
-As you can see from Figure 6 there were several drastic spikes of vault creation throughout the year. For instance, Maker experienced the largest and second-largest days of vault creation immediately following its announcement of Multi-Collateral Dai in October (15–16th). 
-Over 6000 vault accounts where users opened and deposited collateral were created on October 15th alone. Also of note is the consecutive timespan of August 1st-4th which were all within the top fifteen days of most vaults created. The four days combined for a total of 9290 vaults which was 12% of the total amount of Maker Vaults created in 2019.
+As you can see from Figure 6 there were several drastic spikes of vault creation throughout the year. For instance, Maker experienced the largest and second-largest days of vault creation immediately following its announcement of Multi-Collateral Dai in October (15–16th). Over 6000 vault accounts where users opened and deposited collateral were created on October 15th alone. Also of note is the consecutive timespan of August 1st-4th which were all within the top fifteen days of most vaults created. The four days combined for a total of 9290 vaults which was 12% of the total amount of Maker Vaults created in 2019.
+
 The likely reason for the rapid account creation in 2019 was Coinbase Earn’s “Maker Advanced Task” which required individuals to open a Maker Vault in exchange for Dai stablecoin. In fact, the Maker Advanced Task was successful that Coinbase has distributed all the Dai that was pledged to individuals who complete the lessons and Maker Vault tutorial.
+
 This means that Coinbase Earn has certainly been the single largest decentralized finance user adoption tool/mechanism and potentially one of the most effective in crypto.
+
 Now, one caveat is that it’s hard to determine how active those accounts were without really diving into the dataset. Tracking the long term userbase of Maker is make even more challenging with the switch to Maker’s Multicollateral Dai and the Oasis platform.
 
 ## What about the 2020 Vault Statistics and Metrics?
 We could easily examine the 2020 stats for Maker single collateral vaults, however, for a few reasons it’s really not useful. First, the single collateral Dai or “Sai” has decreased rapidly over the past three months as users switch to the Multicollateral Dai. The transition to Multicollateral Dai has obviously resulted in the reduction of the Sai stablecoin (single collateral Dai) which as of March 1st sits around 21 million Sai.
+
 Maker’s transition to multi-collateral Dai and the Dai Savings Rate (DSR) occurred on November 18th and now multi-collateral Dai’s fully diluted supply sits around 50 million Dai with a circulating supply of a little over 115 million Dai. 
 As the final Sai vault users transition to multi-collateral vaults, Sai will fade away to little more than a distant memory where we’ll say to our grandkids, “I remember when we had to use only single collateral Dai”. Oh, the nostalgia. 
 
