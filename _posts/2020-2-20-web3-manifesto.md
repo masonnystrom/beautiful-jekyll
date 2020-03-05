@@ -2,7 +2,7 @@
 layout: post
 title: Web 3.0 Manifesto: Why Web 3.0 Matters
 date: 2020-2-20
-image: img/AW3 Logos/Advancing Web 3.0.png
+image: img/AW3 Logos/AW3-twitter-card.png
 ---
 
 # Web 3.0 Manifesto: Why Web 3.0 Matters
