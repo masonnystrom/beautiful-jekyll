@@ -2,7 +2,7 @@
 layout: post
 title: Web 3.0 Manifesto: Why Web 3.0 Matters
 subtitle: What is Web 3? Why do we need it? How are we getting there?
-imgage: Advancing Web 3.0.png
+image: Advancing Web 3.0.png
 date: 2020-2-15
 comments: true
 ---
