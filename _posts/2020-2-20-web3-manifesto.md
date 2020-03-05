@@ -6,7 +6,7 @@ image: AW3 twitter card.png
 date: 2020-2-20
 comments: true
 ---
-![](img/AW3 twitter card.png.png)
+![(img/AW3 twitter card.png.png)]
 
 ### What is Web 3.0? 
      
