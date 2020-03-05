@@ -6,7 +6,7 @@ image: AW3 twitter card.png
 date: 2020-2-20
 comments: true
 ---
-![(img/AW3 twitter card.png.png)]
+<(https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd41da3b8-b116-48ac-8bd0-9ee30df2fe3b_940x788.png)>
 
 ### What is Web 3.0? 
      
